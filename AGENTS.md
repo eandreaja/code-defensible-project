@@ -1,6 +1,6 @@
 # AGENTS
 
-Mapa para el agente. Mantenerlo corto: enlaza, no duplica.
+Mapa para el agente. Mantenelo corto: enlaza, no duplica.
 
 ## Archivos de trabajo
 
@@ -13,8 +13,8 @@ Mapa para el agente. Mantenerlo corto: enlaza, no duplica.
 - `docs/DEFENSE.md`: resumen de una página para la pizarra.
 - `.specify/`: especificación del proyecto con Spec Kit (no hay `SPEC.md`).
 
-Los archivos de esta lista se crean cuando aparece su disparador. Si un archivo no existe todavía, no lo inventes.
+Los archivos de esta lista se crean cuando aparece su disparador. Si un archivo todavía no existe, no lo inventes.
 
 ## Regla general
 
-Al iniciar una sesión, lee `HANDOVER.md`. Antes de cambiar reglas, permisos o decisiones, consulta el archivo correspondiente en `docs/`. Si una regla de `CONSTRAINTS.md` hay que romperla, para y pregunta.
+Al iniciar una sesión, leé `HANDOVER.md`. Antes de cambiar reglas, permisos o decisiones, consultá el archivo que corresponda en `docs/`. Si hay que romper una regla de `CONSTRAINTS.md`, pará y preguntá.
