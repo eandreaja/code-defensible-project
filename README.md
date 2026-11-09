@@ -89,4 +89,4 @@ Los tres cubos de `ALLOW-POLICY.md` se aplican así: Seguro con `allow`, Nunca c
 
 ## Origen y licencia
 
-Adaptado de "Stop Clicking Allow" (Rohan Mistry, Medium, nov 2026). La matriz, los disparadores y `MAPA-DE-APRENDIZAJE.md` son criterio propio, sin medir. Licencia pendiente de decidir; sin archivo `LICENSE`, todos los derechos están reservados.
+Adaptado de "Stop Clicking Allow" (Rohan Mistry, Medium, nov 2026). La matriz, los disparadores y `MAPA-DE-APRENDIZAJE.md` son criterio propio, sin medir. Licencia MIT (ver `LICENSE`).
